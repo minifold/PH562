@@ -1,0 +1,10 @@
+#+title: Mathematical Physics
+#+subtitle: Oregon State University
+
+#+options: toc:t
+
+* Table of Contents
+
+Course content for mathematical methods in physics lives here.
+
+The auxiliary notebook for the final project is [[attractors.ipynb][here]].
